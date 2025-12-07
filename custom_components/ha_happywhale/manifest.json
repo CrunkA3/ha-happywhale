@@ -4,9 +4,9 @@
   "codeowners": ["@crunka3"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/crunka3/happywhale_tracker",
+  "documentation": "https://github.com/CrunkA3/ha-happywhale",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/crunka3/happywhale_tracker/issues",
+  "issue_tracker": "https://github.com/CrunkA3/ha-happywhale/issues",
   "loggers": ["happywhale_tracker"],
   "version": "0.1.0"
 }
